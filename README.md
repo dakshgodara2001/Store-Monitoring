@@ -1,8 +1,8 @@
-# Report Generation Project
+# Store Monitoring
 
 This project focuses on generating reports based on store data and tracking their status. It provides functionalities to trigger report generation, monitor report statuses, and retrieve the generated reports.
 
-Demo video : https://www.loom.com/share/dbf0e2ce9d93449ca4211590d4990b06
+Demo video : [LOOM](https://www.loom.com/share/dbf0e2ce9d93449ca4211590d4990b06)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -31,7 +31,8 @@ To set up the project, follow these steps:
 3. Store the `.csv` files into the CSV directory.
 4. Open terminal and go to project directory and run `python main.py`.
 
-Development serve will start running on `http://127.0.0.1:5000` 
+Development serve will start running on `http://127.0.0.1:5000`.
+You can use [POSTMAN](https://www.postman.com) to test the APIs.
 
 ## Usage
 
