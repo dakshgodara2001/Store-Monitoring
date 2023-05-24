@@ -28,7 +28,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/dakshgodara2001/Store-Monitoring`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Store the `.csv` files into the CSV directory.
+3. Store the `.csv` files into the CSV folder as `store_business_hour`, `store_status` and `store_status`.
 4. Open terminal and go to project directory and run `python main.py`.
 
 Development serve will start running on `http://127.0.0.1:5000`.
