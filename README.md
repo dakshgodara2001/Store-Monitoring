@@ -31,6 +31,8 @@ To set up the project, follow these steps:
 3. Store the `.csv` files into the CSV directory.
 4. Open terminal and go to project directory and run `python main.py`.
 
+Development serve will start running on `http://127.0.0.1:5000` 
+
 ## Usage
 
 1. Start the Flask API by running the command: `python app.py`
