@@ -1,6 +1,6 @@
 # Store Monitoring
 
-This project focuses on generating reports based on store data and tracking their status. It provides functionalities to trigger report generation, monitor report statuses, and retrieve the generated reports.
+This task focuses on generating reports based on store data and tracking their status. It provides functionalities to trigger report generation, monitor report statuses, and retrieve the generated reports.
 
 Demo video : [LOOM](https://www.loom.com/share/dbf0e2ce9d93449ca4211590d4990b06)
 
