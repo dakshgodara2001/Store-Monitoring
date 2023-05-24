@@ -6,12 +6,11 @@ Demo video : https://www.loom.com/share/dbf0e2ce9d93449ca4211590d4990b06
 
 ## Table of Contents
 - [Overview](#overview)
-- [Installation](#installation)
+- [Setup](#setup)
 - [Usage](#usage)
 - [Database Structure](#database-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -23,13 +22,14 @@ The project consists of the following components:
 - Data Models (`report_data.py`): This module defines the data models used for storing and retrieving report information from the database.
 - Utilities (`utils.py`): This module contains utility functions for data manipulation and time conversions.
 
-## Installation
+## Setup
 
 To set up the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/dakshgodara2001/Store-Monitoring`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Set up the SQLite database: Execute the SQL script provided to create the `report_data` table and set up the database file.
+3. Store the `.csv` files into the CSV directory.
+4. Open terminal and go to project directory and run `python main.py`.
 
 ## Usage
 
