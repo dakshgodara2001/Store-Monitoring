@@ -25,7 +25,7 @@ The project consists of the following components:
 
 To set up the project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/dakshgodara2001/Store-Monitoring`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Set up the SQLite database: Execute the SQL script provided to create the `report_data` table and set up the database file.
 
@@ -55,10 +55,4 @@ The project relies on the following dependencies:
 
 The project uses these libraries for report generation, database operations, time conversions, and other functionality.
 
-## Contributing
 
-Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
